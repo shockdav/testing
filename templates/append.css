@@ -1,0 +1,2592 @@
+.inline-ad-right-top{
+	margin-top:40px;
+}
+
+.inline-ad .disclaimer_inline{
+	font-size: 14px;
+	width: 300px;
+	display: block;
+	color: #666;
+}
+
+.compare-table{
+	border-top:1px #d8dadb solid;
+	border-left:1px #d8dadb solid;
+	border-radius:3px;
+	display:table;
+	height:auto;
+	-webkit-font-smoothing: antialiased;
+	max-width: 780px;
+}
+
+.close{
+	text-decoration: none
+}
+
+.bio{
+	width: 100%
+}
+
+.bio img{
+	align-self: flex-start;
+	object-fit:contain;
+}
+
+.landing-team p{
+	color: #515a5d !important
+}
+
+i .green{
+	color: #2a800c;
+}
+
+.landing-team > div{
+	text-align: left !important
+}
+
+.hero .overlay {
+  height: auto;
+  text-align: center;
+  margin: 0 auto;
+  padding: 120px 0;
+}
+
+article h3, .links h3, .exclusive-ad-div h3{
+	font-size: 22px;
+	font-weight: bold !important
+}
+
+.native-ad-div h3{
+	font-size: 22px !important;
+}
+
+.flex-between{
+	display: flex;
+	justify-content: space-around
+}
+
+.about-person-box{
+	display: inline-block;
+	margin:0;
+	text-align: center;
+	font-size: 19px;
+}
+
+.compare .stickymenu > .inner{
+	background: #deeaea
+}
+
+.stickymenu{
+	background: #deeaea;
+}
+
+.stickymenu-white{
+	background: #fff;
+	box-shadow: 0 20px 20px rgba(0,0,0,0.07)
+}
+
+.broker-menu i.active-i,
+.broker-menu i.inactive-i,
+.broker-menu h3 strong{
+	color: #333;
+}
+
+.authorv2-image{
+	display:inline-block;
+	width:60px;
+	height:60px;
+	margin-right:10px
+}
+
+#body .article-heading p, .article-heading p a{
+	color: #657073;
+	font-size: 17px;
+}
+
+.fetchRotatedAd[data-type='wide'], .fetchRotatedAd[data-type='wide'] > iframe{
+	width: 728px;
+	height: 90px
+}
+
+.compare-advertisement{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	padding:40px 0;
+}
+
+.fetchRotatedAd[data-type='square'], .fetchRotatedAd[data-type='square'] > iframe{
+	width: 320px;
+	min-height: 250px
+}
+
+.compare-table thead tr:first-child{
+	background: #f7f9fa;
+}
+
+footer .social{
+	justify-content: space-around
+}
+
+.sticky-exit{
+	display: block;
+	position: absolute;
+	right:5px;
+	top:5px;
+	background: none !important;
+	color: #000 !important;
+	font-size: 22px !important;
+	opacity: .7
+}
+
+footer .verified{
+	display: block;
+	margin:20px 0;
+}
+
+.compare-table th[data-sort]{
+	cursor: pointer !important
+}
+
+.compare-table th[class*="arrow-direction-"]:after{
+	display: block;
+	content: " ";
+	display: block;
+	background: url(https://template.stockbrokers.com/annual/multiarrow.png);
+	width: 25px;
+	height: 7px;
+	margin:0 auto;
+	margin-top:3px;
+	background-position: 0 0px
+
+}
+.compare-table .arrow-direction-0:after{
+	background-position: 0 27px !important;
+}
+
+.compare-table .arrow-direction-1:after{
+	background-position: 0 7px !important;
+}
+
+.bio{
+	max-width: 780px
+}
+
+.centered-ad .fetchRotatedAd[data-type='wide']{
+	margin: 0 auto
+}
+
+.fetchRotatedAd iframe{
+	min-width: 320px
+}
+
+.fetchRotatedAd .disclaimer_inline{
+	font-size: 14px;
+	color: #666;
+	margin-bottom: 20px;
+	display: block;
+}
+
+.master-table .collapse {
+	cursor: pointer
+}
+
+.master-table .collapse span{
+	top:3px
+}
+
+.master-table .collapse span:after{
+	content: "\e316";
+	font-family: "Material Icons";
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.master-table .collapse.hidden span:after{
+	content: "\e313";
+	font-family: "Material Icons";
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.master-table{
+	display: flex;
+	margin:20px auto;
+	overflow: visible;
+	background: #fff;
+	font-size:0;
+	padding:0;
+
+	user-select: none
+}
+
+.gallery-block{
+	display: flex;
+  margin-left: 35px;
+  padding: 10px 0;
+  max-width: 720px;
+}
+.gallery-thumbnails a:nth-child(1n + 11){
+	display:none
+}
+
+.fa-twitter{
+	background: #fff url(https://template.stockbrokers.com/twitter.png) center center;
+	display: block;
+	border-radius: 100%;
+	position: absolute;
+	left:0;
+	right:0;
+	top:0;
+	bottom: 0;
+}
+
+.fa-linkedin{
+	background: #fff url(https://template.stockbrokers.com/linkedin.png) center center;
+	display: block;
+	border-radius: 100%;
+	position: absolute;
+	left:0;
+	right:0;
+	top:0;
+	bottom: 0;
+}
+
+.fa-facebook{
+	background: #fff url(https://template.stockbrokers.com/facebook.png) center center;
+	display: block;
+	border-radius: 100%;
+	position: absolute;
+	left:0;
+	right:0;
+	top:0;
+	bottom: 0;
+}
+
+.gallery-thumbnails a{
+	display: inline-block;
+	width: 125px;
+	height: 125px;
+	overflow: hidden;
+	margin:5px;
+	border:1px #ccc solid;
+}
+.gallery-thumbnails a img{
+	height: 100%;
+	min-width: 125px;
+	min-height: 125px;
+}
+
+.promo-placeholder{
+	font-size:20px;
+}
+
+
+img[data-src]{
+	filter: blur(10px);
+}
+
+.gallery-thumbnails a:hover:after{
+  display: block;
+  content: "View Gallery";
+  font-size: 14px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background:rgba(0,0,0,.7);
+  right: 0;
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+}
+
+.toggle:after{
+  content: "\e313";
+  font-family: "Material Icons";
+  font-size: 18px;
+  font-weight: bold;
+  vertical-align: middle;
+  text-decoration: none !important;
+  display:inline-block !important;
+}
+
+.toggle-active{
+	margin-bottom: 20px;
+	display: block;
+}
+.toggle-active:after{
+  content: "\e316";
+  font-family: "Material Icons";
+  font-size: 18px;
+  font-weight: bold;
+  vertical-align: middle
+}
+
+.toggle-target{
+	display: none;
+}
+
+.toggle-target-active{
+	display: block
+}
+
+.master-table .fixed .collapse,
+.master-table .fixed .table[data-name]{
+	border-left:1px #d8dadb solid;
+}
+
+.master-table .fixed .ad{
+	border-left: none !important
+}
+
+.master-table .column .brokerHeader{
+	box-shadow:-1px 0 0 #d8dadd inset
+}
+.master-table .fixed .table[data-name='overallrating']{
+	border-left: none
+}
+.master-table .fixed .table[data-name='overallrating'] > div{
+	border-bottom: none;
+	font-size: 0;
+	border-top: none;
+}
+
+.master-table .fixed .table[data-name='overallrating'] > div:last-child{
+	border-bottom: 1px solid #d8dadb;
+}
+
+.master-table .fixed .brokerHeader{
+	border-bottom: none;
+	padding-bottom: 3px
+}
+
+.column .offer a{
+	color: #040404;
+	font-weight: bold;
+}
+
+.column .exclusive-offer a{
+	color: #fff;
+	font-weight: bold
+}
+
+.master-table .scroller{
+	display:block;
+	overflow: visible;
+	overflow-x: auto;
+	overflow-y: visible;
+	white-space: nowrap;
+	cursor: -webkit-grab;
+	box-sizing: border-box;
+	-webkit-overflow-scrolling: touch;
+	width: 100%
+}
+
+.page-brokerv1 .review-hero .inner{
+	display: flex;
+	justify-content: space-between
+}
+
+.full-inner{
+	display: block;
+	width: calc(100vw - 40px);
+	margin:0 auto;
+}
+
+.review-hero{
+	background: #2f3135 url(https://cdn.stockbrokers.com/images/background1.png) center center;
+	color: #fff;
+	padding: 40px 0;
+	background-attachment:fixed;
+	overflow: hidden;
+}
+
+
+.brokerReview article .flex-10 ul li,
+.brokerreviews .articleBody ul,
+.default-ul{
+	display: list-item;
+	padding-bottom: 8px;
+	-webkit-font-smoothing: antialiased;
+	font-size: 1rem;
+	line-height: 1.5rem;
+	font-weight: 400;
+	color: #36383d;
+	margin-left:35px;
+	max-width: 745px
+}
+
+.brokerReview article .flex-10 ul,
+.brokerreviews .articleBody ul,
+.default-ul{
+	padding-bottom: 10px;
+	display: block;
+	list-style-type: disc;
+}
+
+
+
+
+
+.master-table .table{
+}
+.master-table .table.hidden{
+	display: none !important
+}
+.master-table .scroller .collapse a:after{
+	color: #acb8bb;
+	font-size: 13px;
+
+}
+
+.master-table .fixed .collapse{
+	overflow: visible;
+	background: #efefef;
+}
+
+
+.master-table .scroller .collapse{
+	padding:0;
+	background: #efefef;
+	text-align: left;
+	outline: none;
+	user-select: none;
+}
+
+@keyframes example {
+  0%   {opacity:1}
+  75%  {opacity:0}
+  100% {opacity:0; display:none; height: 0px; overflow: hidden;}
+}
+
+.listings-v2 .offer-v2{
+	display: block;
+	box-shadow:0 0 20px rgba(0,0,0,.2);
+	width: auto;
+	max-width: 780px;
+	margin-bottom: 30px;
+}
+
+.listings-v2 .offer-v2 .picture img{
+	width: auto;
+	max-width: 100%
+}
+
+.listings-v2 .offer-v2 .heading{
+	padding:25px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center
+}
+.listings-v2 .offer-v2 .offer b{
+	display: inline-block;
+	padding-right: 10px;
+}
+.listings-v2 .offer-v2 .offer{
+	padding:15px 25px;
+	background: #deeaea;
+	font-size: 18px
+}
+.listings-v2 .offer-v2 .exclusive-offer,
+.cta.exclusive-offer{
+	background: #224a56;
+	color: #cbe0e0
+}
+.listings-v2 .offer-v2 .offer a{
+	text-decoration: underline
+}
+.listings-v2 .offer-v2 .offer a:hover{
+	font-weight: bold
+}
+.listings-v2 .offer-v2 .exclusive-offer a,
+.cta.exclusive-offer a{
+	color: #cbe0e0
+}
+.listings-v2 .offer-v2 .footer{
+	padding:25px
+}
+.listings-v2 .offer-v2 .footer p{
+	margin:0 !important;
+	display: inline;
+}
+.listings-v2 .offer-v2 .footer p:last-child ~ a{
+	display: inline;
+	font-weight: bold
+}
+
+.listing-v3{
+	display: grid;
+	grid-template-columns: 1fr 4fr;
+	grid-gap: 20px
+}
+
+.listings div img[border="0"]{
+	max-width: 120px
+}
+
+.big-links{
+	background: #fff;
+	padding:100px 0;
+	justify-content: space-between;
+	overflow: hidden;
+}
+.big-links a{
+  margin: 20px auto;
+  text-decoration: none
+}
+
+.big-links a, .button-circle{
+  display: inline-block;
+  border: 2px #224a56 solid;
+  color: #224a56;
+  padding: 8px 30px;
+  border-radius: 50px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 1px;
+  z-index: 1;
+  text-align: center
+}
+
+
+.home-exclusive{
+	font-size: 0;
+	margin:0 auto;
+	display: flex;
+	flex-flow:wrap;
+	justify-content: center;
+	z-index: 100
+}
+.home-exclusive li{
+	flex:1 1 0;
+	background: #ffffff;
+	padding:25px;
+	font-size: 1rem;
+	text-align: center;
+	box-sizing: border-box;
+	top:0;
+	min-width: 250px;
+	box-shadow:0 0 5px rgba(0,0,0,.1);
+}
+.home-exclusive p{
+	font-size: 16px;
+	line-height: 1.3em
+}
+.home-exclusive p a{
+	color: #36383d;
+}
+
+.home-exclusive a{
+	text-decoration: underline
+}
+.home-exclusive img{
+	display:block;
+	max-width: 100%;
+	margin:0 auto;
+}
+.home-exclusive li .learn-more{
+	background: #224a56;
+	display: block;
+	color: #fff;
+	font-weight:bold;
+	font-size: 16px;
+	-webkit-font-smoothing: antialiased;
+	position: absolute;
+	left:0;
+	right:-1px;
+	bottom: -30px;
+	padding:5px 0;
+	border-right: 1px rgba(0,0,0,.5) solid;
+}
+
+
+.home-exclusive li:first-child b{
+	font-size: 40px;
+	font-weight: 200;
+	display: block;
+	-webkit-font-smoothing: antialiased;
+}
+
+.home-exclusive li:first-child a{
+	font-size: 16px;
+}
+
+
+td .rating{
+	font-size: 0
+}
+
+.review-hero .ratings .rating,
+article .flex-10 .rating,
+.smaller.rating{
+	width: 75px;
+	height:14px;
+	background-image: url(https://cdn.stockbrokers.com/resources/stars-75.png);
+	font-size: 0
+}
+
+.review-hero .overall .rating,
+.offer-v2 .rating{
+	width: 150px;
+	height: 29px;
+	background-image: url(https://cdn.stockbrokers.com/resources/stars-150.png);
+	vertical-align: middle;
+	display: inline-block;
+	font-weight: bold
+}
+
+.offer-v2 .rating:after{
+	content: "Overall";
+	display: block;
+	font-size: 14px;
+	text-align: center;
+	margin-top:35px;
+}
+
+.forced-ad{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+article .flex-10 .rating{
+	margin-left:10px
+}
+
+article .flex-10 h3{
+	display: inline-block;
+	margin-bottom: 10px;
+}
+
+.scroller .table .rating{
+	font-size: 0
+}
+
+.broker-list img{
+	padding-bottom: 5px;
+}
+
+.rating-0:after,
+.rating-:after,
+.rating--1:after{
+    content: "Not Rated";
+    display: block;
+    font-size: 12px;
+    text-align: center;
+    color: #111;
+    font-weight: normal;
+}
+.rating-0,
+.rating-,
+.rating--1{
+	opacity: .5
+}
+
+sup{
+	font-size: 11px;
+	top:-10px;
+}
+
+.native-ad-div a{
+	font-size: 18px
+}
+
+.native-ad-div p{
+	margin-bottom: 0 !important;
+}
+
+.screener form .rating:after,
+.review-hero .rating:after{
+	display: none !important
+}
+
+.innerabout #body .pad-50{
+	display: flex;
+	flex-direction: row
+}
+
+
+.about #body .pad-50 p{
+	margin-top:0px;
+}
+
+.about #body .pad-50 > img:first-child{
+	width: 300px;
+	height: 300px;
+	margin-right:20px;
+}
+
+.about #body .pad-50 li{
+	display: list-item;
+	margin-left:45px;
+	list-style: disc
+}
+
+.about #body .pad-50 h2{
+  font-size: 36px;
+  font-weight: bold!important;
+  color: #36383d;
+}
+
+.stickymenu ul li b{
+    color: #fff;
+    padding: 0px 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline
+}
+
+.stickymenu ul li input ~ b{
+	padding:0px;
+}
+
+
+.noadty .mobile-footer{
+	display:  none !important
+}
+
+.table-size-column{
+	width: calc(32% - 20px);
+	display: inline-block;
+	margin:10px;
+}
+
+.multi-flexV2{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.table-size-full{
+	width: 100%;
+	display: block;
+}
+.table-size-full h3{
+	display: block;
+	width: 100%;
+	margin-left:8px;
+	margin-top:20px;
+	margin-bottom: 8px;
+}
+.table-size-full > table{
+	width: 100%;
+	display: table;
+}
+
+.table-size-full tbody.
+.table-size-full thead{
+	width: 100%;
+	display: inherit;
+}
+
+.table.ad .fetchRotatedAd{
+	position: absolute;
+	left:20vw;
+	top:30px;
+	width: 750px;
+	height: 100px;
+}
+
+.brand-intro{
+	padding:15px;
+	background: #cbe0e0;
+	overflow: hidden;
+	max-width: 760px
+}
+
+.brand-intro a{
+	color:#224a56
+}
+
+.table-size-full thead td{
+	border-bottom: 1px #888 solid;
+	font-weight: bold !important;
+}
+
+.table-size-full thead tr{
+	background:#ccc !important;
+}
+
+blockquote{
+	display: block;
+	max-width: 780px
+}
+
+.brokerreviews .publish{
+	max-width: 780px;
+	justify-content: flex-start
+}
+.publish{
+	display: block;
+}
+
+.publish a{
+	color: #224a56
+}
+
+.publish .social{
+	display:inline;
+	margin-left:20px;
+	vertical-align: middle
+}
+.publish .social a{
+	color: #36383d;
+	border: 1px #000 solid;
+	border-radius: 100%;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	margin:0 3px;
+	width: 2rem;
+	height: 2rem;
+}
+
+#body blockquote p{
+    font-size: 26px;
+    color: #657073;
+    font-weight: 200;
+    line-height: 1.3em;
+    display: inline-block;
+    vertical-align: top;
+    border-top: 5px #e4e4e4 solid;
+    border-bottom: 5px #d0d0d0 solid;
+    padding: 20px 0;
+    padding-left: 40px;
+}
+
+#body blockquote.orange p{
+  border-top: 5px #ed7b00 solid;
+  border-bottom: 5px #ed7b00 solid;
+  color:#36383d
+}
+
+.left-menu .social a{
+	margin:0px;
+}
+
+.brokerreviews #body h2{
+    font-size: 22px;
+    font-weight: bold !important;
+    color: #36383d;
+    margin-bottom: 10px;
+}
+
+h2.no-margin{
+	margin-bottom: 0px !important
+}
+
+h2.h2-bigger{
+	font-size: 30px !important;
+  font-weight: bold !important;
+  color: #36383d;
+}
+
+h2.h2-biggest{
+	font-size: 38px !important;
+  font-weight: bold !important;
+  color: #36383d;
+}
+
+
+.h3-bigger{
+	font-size: 30px !important;
+  font-weight: bold !important;
+  color: #36383d;
+}
+
+.h3-biggest{
+	font-size: 38px !important;
+  font-weight: bold !important;
+  color: #36383d;
+}
+
+article small{
+	font-size:13px
+}
+
+
+ol.list{
+	list-style-type: decimal;
+}
+ol.list li{
+	text-indent: 0 !important;
+}
+ol.list li:before{
+	content: "";
+}
+
+.stickymenu ul li input:checked ~ b:after{
+	left:0;
+	right:0;
+	text-align: center
+}
+
+ol.list, .list, li.list, .default-ul{
+  -webkit-font-smoothing: antialiased;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 400;
+  color: #36383d;
+  max-width: 780px;
+  margin-bottom: 20px;
+}
+
+#broker-review-context ul li, ol li, .list li{
+  display: list-item;
+  -webkit-font-smoothing: antialiased;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 400;
+  color: #36383d;
+  margin-left: 35px;
+}
+
+#broker-review-context ul.numbered li{
+	list-style: none
+}
+
+#broker-review-context ul.numbered{
+	counter-reset: item
+}
+#broker-review-context ul.numbered li:before{
+    content: counter(item) ". ";
+    counter-increment: item;
+    font-weight: bold;
+    margin-left:-20px
+}
+
+.list li{
+	list-style: disc;
+	padding-left:10px;
+}
+
+#body blockquote p:before{
+	content: open-quote;
+	font-size: 60px;
+	position: absolute;
+	left:10px;
+	opacity: .8;
+	top:30px;
+	color: #224a56
+}
+#body blockquote p:after{
+	content: close-quote;
+	font-size: 60px;
+	position: absolute;
+	opacity: .5;
+	bottom: 10px;
+	margin-left:8px;
+	color: #224a56
+}
+
+.offer.limited-offer{
+  background: #7d999e !important;
+  color: #000;
+}
+.offer.limited-offer a{
+	color: #000 !important
+}
+
+.column .offer.limited-offer a{
+	color: #000
+}
+.column .offer.limited-offer .getstarted{
+	border:2px #fff solid;
+	background: #fff;
+	color: #224a56 !important
+}
+
+.column .offer.limited-offer .getstarted:hover{
+	background: #224a56;
+	color: #fff !important;
+	border:2px #224a56 solid;
+}
+
+.offer.limited-offer p{
+  color: #000 !important;
+}
+
+.offer.limited-offer b{
+	color: #000
+}
+
+
+.brokerHeader strong {
+    text-align: center;
+    display: block;
+    margin-bottom: 20px;
+    max-width: 90%;
+    margin: 0 auto 30px;
+}
+
+.brokerHeader .offer a{
+	display: block;
+}
+
+.home-exclusive a{
+	color: #224a56
+}
+
+.brokerHeader .offer{
+	box-shadow: -1px 0 0 #ccc inset
+}
+
+.scroller.compare-two .column{
+	width: 50%
+}
+
+.master-table .column.first-child .brokerHeader{
+	box-shadow: 1px 0 0 #ccc inset, -1px 0 0 #d8dadd inset;
+}
+
+.master-table .brokerHeader > a{
+	text-align: center
+}
+
+.compare-table thead tr:first-child > th{
+	max-width: 150px;
+	padding:10px;
+}
+
+
+
+
+.compare-table tr td:first-child{
+	font-weight: bold
+}
+
+.master-table .collapse a{
+	text-align: center;
+	white-space: nowrap;
+	overflow: visible;
+	text-decoration: none !important
+}
+
+div[data-name='ratings'] .table a{
+	text-decoration: underline
+}
+
+table.compare-table .checkmark:after,
+table.compare-table .checkmark-no:after{
+	position: relative !important;
+	right: initial !important;
+}
+table.compare-table tr td{
+	vertical-align: middle
+}
+
+td[data-over],
+div[data-over]{
+	cursor: pointer;
+	text-decoration: underline
+}
+td[data-over]:hover:after,
+div[data-over]:hover:after{
+    display: block;
+    content: attr(data-over);
+    position: absolute;
+    background: #fff;
+    border: 2px #5d5d5d solid;
+    padding: 10px;
+    z-index: 10005;
+    top: calc(100% + 10px);
+    width: 450px;
+    font-weight: normal;
+}
+
+td[data-over]:hover:before,
+div[data-over]:hover:before{
+    width: 10px;
+    height: 10px;
+    background: #5d5d5d;
+    content: " ";
+    position: absolute;
+    z-index: 10000;
+    transform: rotate(45deg);
+    top: calc(100% + 5px);
+    left: 25px;
+    font-size: 16px
+}
+
+
+.master-table .fixed .table > div{
+	justify-content:flex-start;
+	padding-left:20px;
+	color: #36383d;
+	overflow: visible;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	padding-right:20px;
+	font-weight: bold;
+	min-width: 250px;
+}
+
+.double-button{
+	display: grid;
+  grid-template-columns: 50% 50%;
+  grid-gap: 20px;
+}
+
+
+.master-table div[data-over]:hover:before{
+	left:100%;
+	margin-left:5px;
+	width:15px;
+	height: 15px;
+}
+
+.master-table div[data-over]:hover:after{
+	left:calc(100% + 10px);
+	bottom: auto !important;
+	top:-10px;
+	width: 330px;
+	white-space: normal;
+}
+
+table.compare-table a .material-icons{
+    font-size: 16px;
+    color: #acb8bb;
+    vertical-align: middle;
+    top: -1px;
+}
+
+.pop-caption{
+	display: block; text-align: center; color: #fff; font-size: 14px;
+}
+
+.compare-table tr td,
+.compare-table tr th{
+	display:table-cell;
+	width:auto;
+	border-right:1px #d8dadb solid;
+	border-bottom:1px #d8dadb solid;
+	padding:7px 5px;
+	font-size:15px;
+	text-align: center
+}
+
+a.picture{
+	text-decoration: none;
+}
+a.picture small{
+	font-size: 13px;
+	width: 100%;
+	display: block;
+	border-top: 2px #eee solid;
+	text-align: center;
+	line-height: 1.5em;
+	padding-top: 10px;
+	margin-bottom: 10px;
+	color:#36383d;
+}
+
+.button-circle{
+	text-decoration: none !important
+}
+
+.floater a.picture small{
+	text-align: center;
+	color: #fff;
+}
+
+article a.picture,
+.articleBody a.picture{
+	display: inline-block
+}
+.brokerReview .screenshots .ss-scroller a:hover:before,
+article a.picture:hover:before,
+.articleBody a.picture:hover:before{
+	display: block;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	background: rgba(0, 0, 0, 0.2);
+	box-sizing: border-box;
+	content: " ";
+	left:0;
+	right:0;
+	top:0;
+	bottom: 0;
+	z-index: 10
+}
+
+.brokerReview .screenshots .ss-scroller a:hover:after,
+article a.picture:hover:after,
+.articleBody a.picture:hover:after{
+    font-family: "Material Icons";
+    content: "\E8FF";
+    font-size: 40px;
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    display: block;
+    width: 100%;
+    top: calc(50% + -20px);
+    z-index: 15
+}
+
+article p img,
+.articleBody p img{
+	width: auto;
+	max-width:780px;
+	height: auto;
+}
+
+.listings{
+	max-width: 780px
+}
+.listings > div > img:first-child{
+	margin-top:6px;
+}
+
+.broker-menu .material-icons{
+	font-size: 30px;
+	vertical-align: middle;
+	width: 35px;
+	text-indent: -11px
+}
+
+.material-icons:after{
+	content: attr(data-icon)
+}
+
+
+.stickymenu .inner > div{
+	display: block;
+	display: flex;
+	align-items: center;
+	padding:3px 0;
+	flex:1 1 auto;
+	min-height: 39px
+}
+
+.broker-menu h3{
+	font-size: 26px;
+	cursor: pointer;
+	color: #fff;
+	user-select:none;
+}
+
+.broker-menu h3 strong{
+	font-size: 22px;
+	font-weight: normal
+}
+
+.guides-parent{
+	display: flex;
+	flex-wrap: wrap;
+}
+.guide-list{
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0,0,0,.2);
+  border-radius: 4px;
+  overflow: hidden;
+  padding:20px;
+  width: calc(50% - 60px);
+  margin:10px;
+}
+
+.native-ad-div{
+	border-top: 1px #ccc solid;
+	border-bottom: 1px #ccc solid;
+	padding:30px 0;
+	max-width: 780px;
+	margin-bottom: 30px;
+	margin-top:10px;
+	display:grid;
+	grid-template-columns: 1fr minmax(150px, 30%)
+}
+
+.exclusive-ad-div{
+	padding:20px;
+	border:none;
+	background: #e8e8e8;
+	box-shadow: 0 0 10px rgba(0,0,0,.1)
+}
+
+.native-ad-div small{
+	font-size: 12px;
+	font-weight: bold;
+	display: block;
+	margin-top:10px;
+	color: #999
+}
+
+.native-ad-div a{
+	text-decoration: underline
+}
+
+.native-ad-div-img{
+	justify-content: center;
+	display: flex;
+	align-items: baseline
+}
+
+
+.compare-block{
+	background: linear-gradient(#FFF 30%, #f5f5f5 80%);
+	margin:50px auto !important;
+	max-width: 800px
+}
+
+.left-menu{
+	padding-right:20px;
+}
+
+.left-menu li{
+	line-height: 1em
+}
+
+.left-menu a{
+	font-size: 16px;
+	-webkit-font-smoothing: antialiased;
+	color: #224a56
+}
+
+.media-blocks span:after{
+	display: block;
+	font-family: "Material Icons";
+	font-size: 22px;
+	-webkit-font-smoothing: antialiased
+}
+
+.primary-disclosure{
+	font-size: 14px;
+	color: #424242;
+	position: relative;
+	display: inline-block;
+	clear: both;
+	padding-top:10px;
+}
+
+.primary-disclosure span{
+	text-decoration: underline;
+	cursor: pointer;
+	user-select:none;
+	display: block;
+	position: relative
+}
+.primary-disclosure > div{
+	display: none;
+}
+.primary-disclosure.active > div{
+  background: #fff;
+  border: 1px #eee solid;
+  box-shadow: 0 0 10px rgba(0,0,0,.2);
+  position: absolute;
+  z-index: 10002;
+  display: block;
+  left:0;
+  margin: 2px auto;
+  padding:20px;
+  width: 200px;
+  color: #000;
+  text-align: left;
+  text-indent:0px;
+  white-space: normal;
+  font-size: 16px;
+}
+
+.primary-disclosure-right.active > div{
+	right:0;
+	left:auto
+}
+
+.primary-disclosure .exit{
+	position: absolute;
+	right:7px;
+	top:4px;
+	color: #333 !important;
+	font-size: 18px !important;
+	text-decoration: none;
+}
+
+.fetchRotatedAd .primary-disclosure,
+#fetchRotatedAd .primary-disclosure{
+	display: block;
+}
+
+.media-blocks .article span:after{
+	content:"insert_drive_file"
+}
+.media-blocks .media span:after{
+	content:"volume_up"
+}
+.media-blocks .advertising span:after{
+	content:"bubble_chart"
+}
+.media-blocks .social span:after{
+	content:"chat"
+}
+
+.media-blocks .article{
+	background: #2a800c;
+}
+.media-blocks .social{
+	background: #224a56;
+	max-width: none;
+	text-align: left;
+	background-repeat: no-repeat
+}
+.media-blocks .media{
+	background: #657073;
+}
+.media-blocks .advertising{
+	background: #f77721;
+}
+
+.media-blocks > div span{
+	color: #fff;
+	font-size: 14px;
+	margin-bottom: 20px;
+	display: flex;
+	justify-content: space-between
+}
+
+.media-blocks > div a{
+	position: absolute;
+	left:0;
+	right:0;
+	bottom:0;
+	font-size: 16px;
+	padding:15px;
+	text-align: right;
+	color: #fff;
+	opacity: .7
+}
+
+.media-blocks a:hover{
+	opacity: 1
+}
+
+.compare-sticky .brokerHeaderFloater,
+.compare-sticky .master-table .brokerHeaderFloater{
+	position: fixed;
+	z-index: 9970;
+	background: #fff;
+	min-height: auto !important;
+	height: 45px;
+	width: 30rem;
+	white-space: nowrap;
+	overflow: hidden;
+	top:44px
+}
+
+
+.compare-sticky .brokerHeaderFloater img.broker-logo{
+	padding:0;
+	display: inline-block;
+	margin: 0px 20px;
+	min-height: auto;
+}
+
+.compare-sticky .brokerHeaderFloater strong,
+.compare-sticky .brokerHeaderFloater .offer div:first-child{
+	display: none;
+}
+
+.compare-sticky .brokerHeaderFloater .offer{
+	height: auto;
+	background: none !important;
+	display: inline-block;
+	padding:0;
+	vertical-align: top;
+	top:4px;
+}
+
+.compare-sticky.hasMobileAd .brokerHeaderFloater img.broker-logo{
+
+}
+
+.compare-sticky.hasMobileAd .brokerHeaderFloater .offer{
+	display: none !important
+}
+
+.compare-sticky.hasMobileAd .brokerHeaderFloater > a{
+}
+
+.compare-sticky .brokerHeaderFloater .offer a.getstarted, .compare-sticky .brokerHeaderFloater .offer .getstarted{
+	 text-decoration: none !important;
+    color: #224a56;
+    border: 2px #224a56 solid;
+    font-size: 14px;
+    top:4px;
+    padding:3px 15px
+}
+.compare-sticky .brokerHeaderFloater .offer a.getstarted:hover, .compare-sticky .brokerHeaderFloater .offer .getstarted:hover{
+	background: #224a56 !important;
+	color: #fff !important;
+}
+
+.compare-sticky .scroller .column .brokerHeader:first-child .offer div:last-child{
+	display: inline;
+}
+
+
+
+
+
+.table.ad > div{
+	background: #fff !important;
+	min-height: 150px;
+	border-right: none;
+	overflow: visible !important
+}
+
+.media-blocks{
+	display: flex;
+	margin:40px 0;
+	flex-direction: row;
+	flex-wrap: wrap;
+	font-size:0;
+	justify-content: space-between
+}
+.media-blocks > div{
+	display: inline-block;
+	width: calc(25% - 70px);
+	background: #fff;
+	padding:25px;
+	margin-bottom: 25px;
+	border-radius: 4px;
+	box-shadow: 0 0 10px rgba(0,0,0,.2);
+	overflow: hidden;
+}
+
+.media-blocks .featured{
+	width: calc(50% - 65px);
+	background-size: cover !important
+}
+
+#body .media-blocks .featured p{
+	font-size: 40px;
+	font-weight: 200;
+	-webkit-font-smoothing: antialiased;
+	line-height: 1.1em
+}
+
+#body .media-blocks p{
+	color: #fff;
+	-webkit-font-smoothing: antialiased
+}
+
+.media-body{
+	background: #f4f4f4;
+	padding:50px 0;
+}
+
+.medianav{
+	display: flex;
+	justify-content: space-between
+}
+
+.medianav a{
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.padlink a{
+	margin:0 20px;
+}
+
+.medianav a i{
+	vertical-align: middle
+}
+
+
+
+.hero ul.picker{
+	display: inline-block;
+	padding:10px;
+	text-align: left;
+	cursor: pointer
+}
+
+.hero ul.picker li a{
+	padding: 2px 5px
+}
+
+.picker .picker-float{
+	display: none;
+	position: absolute;
+	left:0;
+	top:100%;
+	background: #fff;
+	width: 100%;
+	border:1px #ccc solid;
+	box-sizing: border-box;
+	box-shadow: 0 0 5px rgba(0,0,0,.2);
+	z-index: 100000000
+}
+
+.hero .picker:hover .picker-float{
+	display: block;
+}
+
+.breadcrumb{
+	display: inline-block !important;
+	list-style: none !important;
+	padding: 0 !important;
+	margin: 0 0 5px !important;
+	font-size: 0 !important
+}
+
+.breadcrumb > li{
+	display: inline-flex;
+	align-items: center;
+	font-size: 14px !important;
+	padding:0;
+	margin:0;
+}
+.breadcrumb a{
+	color: #657073
+}
+.breadcrumb > li:after{
+	content: " ";
+	font-family: "Material Icons";
+	content: "\E315";
+	font-size: 12px;
+}
+
+.breadcrumb > li:last-child:after{
+	display: none
+}
+
+
+.menu-flex{
+	display: flex;
+	justify-content: space-between;
+	align-items: center
+}
+
+
+.hero ul.picker li a{
+	text-decoration: none;
+}
+
+.navigation li a,
+.breadcrumb a{
+	text-decoration: none
+}
+
+.subnav li a{
+	text-decoration: none
+}
+
+.navigation li[data-target]:hover:before{
+	width: 100%;
+	height: 100%;
+	display: block;
+	content: " ";
+	z-index: 1000;
+	position: absolute;
+	left: 30%;
+	transform: rotate(35deg);
+	top: 50%;
+}
+.navigation li[data-target]:hover:after{
+	width: 100%;
+	height: 100%;
+	display: block;
+	content: " ";
+	z-index: 1000;
+	position: absolute;
+	right:30%;
+	transform: rotate(-35deg);
+	top: 50%;
+}
+
+header .navigation{
+	margin:0 10px;
+	width: calc(100% - 300px);
+	position: absolute;
+	right:0;
+	top:0;
+	bottom: 0;
+	white-space: nowrap
+}
+
+footer .navigation li{
+	margin:0;
+	padding-right: 20px;
+}
+
+.h1heading{
+	background: #f4f4f4;
+}
+
+h1 .subh1{
+	font-size: 18px;
+	font-weight: 400
+}
+
+.stickymenu .broker-submit{
+	padding-bottom: 10px
+}
+
+#body{
+	background: linear-gradient(#FFF 95%, #f5f5f5 100%)
+}
+
+.mobile-mover{
+	position: absolute;
+	right:27px;
+	z-index: 100;
+	padding:15px;
+	top:0;
+	width: 70% !important;
+	text-align: right;
+}
+
+.subnav-mover{
+	position: absolute;
+	right: -16px;
+	z-index: 100;
+	padding: 15px;
+	top: -15px;
+	width: 50px !important;
+	text-align: center;
+	font-size: 22px !important;
+}
+
+.table-flexer td{
+	font-size: 14px;
+	padding:8px;
+}
+
+.table-flexer td:last-child{
+	font-weight: normal
+}
+
+.table-flexer tr {
+}
+
+.table-flexer tr td:first-child{
+	width: 30%
+}
+
+.table-flexer tr td:first-child + td{
+	width: 10%;
+}
+
+.table-flexer tr:nth-child(2n+1){
+	background: #eee
+}
+
+.featured-links{
+	display: grid;
+	white-space: normal;
+	text-align: center;
+	grid-gap:20px;
+	grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+
+}
+
+.featured-links img{
+	display: block;
+	margin:0 auto;
+	margin-bottom:10px;
+	width:240px;
+	height: 200px;
+	object-fit: cover
+}
+
+.table-flexer{
+    margin-bottom: 10px;
+    width: 100%;
+    font-size: 0;
+}
+
+.broker-menu-ul-single{
+	width: auto;
+	max-width: 300px;
+	left:0
+}
+
+.broker-menu-ul-single .inner{
+	display: block !important;
+	overflow-x: hide;
+	overflow-y: scroll;
+}
+
+.broker-menu-ul-single li label{
+	padding:8px 0 !important;
+	font-size: 15px !important
+}
+
+
+.broker-menu-ul-single input[type=submit]{
+	padding:10px !important;
+	margin:10px auto !important;
+	font-size:15px !important
+}
+
+.scroll-action .h1heading .cta{
+	display: flex;
+	position: absolute;
+	right:0;
+	top:0px;
+	bottom: 0px;
+	align-items: center
+}
+
+.scroll-action .column .brokerHeaderFloater{
+}
+
+.scroll-action .h1heading .cta-behind{
+	width: auto;
+	left:calc(50% + 450px);
+	z-index: 25
+}
+
+.scroll-action .h1heading .cta .inner{
+	display: block;
+}
+
+.scroll-action .h1heading img.broker-logo{
+	display: none
+}
+
+.h1heading .active-border{
+	height: 2px;
+	width: 0;
+	background:#2a800c;
+	position: absolute;
+	left:0;
+	bottom:0;
+	z-index: 5550
+}
+
+
+
+.offers section.exclusive .cards > div{
+	max-height: 420px
+}
+
+.broker-list-3{
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	max-width: 1080px;
+	margin:0;
+}
+
+.broker-list-3 > div{
+	width: 320px
+}
+
+.ads-list-3 > div > div, .ads-list-3 iframe{
+	width: 320px !important;
+	min-height: 350px !important
+}
+
+.mobile, .mini-mobile{
+	visibility: hidden;
+	position: absolute;
+}
+
+@media only screen and (max-width:850px){
+
+	.master-table .table > div{
+		border-bottom: none;
+		display: block;
+		padding-top:15px;
+		text-align: left;
+		padding-left:20px;
+		min-height: 50px
+	}
+
+	.master-table .column .table > div:before{
+		content: attr(data-key);
+		display: block;
+		font-size: 14px;
+		position: relative;
+		color: #7b7e87;
+	}
+
+	.master-table .column.first-child .table > div:before{
+
+	}
+
+	.master-table .scroller .column.first-child .collapse a:after{
+		content: attr(data-key);
+		font-size: 16px;
+		text-transform: uppercase;
+		font-weight: bold;
+		color: #36383d;
+	}
+
+	.master-table .scroller .column.first-child .collapse a:before{
+		padding-left:10px;
+		font-size: 16px;
+		content: "\e316";
+		font-family: "Material Icons";
+	}
+
+	.master-table .scroller .column.first-child .collapse.hidden a:before{
+		content: "\e313" !important;
+	}
+
+	.navigation li[data-target]:hover:before,
+	.navigation li[data-target]:hover:after{
+		display: none !important;
+		position: absolute;
+		width: 0px;
+		height: 0px;
+	}
+	.secondary-navigation.active{
+		position: fixed;
+		left: 0;
+		right: 0;
+		top: 70px;
+		bottom:0;
+		overflow: auto;
+		-webkit-overflow-scrolling: touch;
+	}
+	.secondary-navigation .inner{
+		left:0px;
+	}
+	header .navigation li{
+		height: auto
+	}
+	.navActive header .navigation{
+		display: block;
+		overflow-x: hidden;
+		overflow-y: auto;
+		position: fixed;
+		width: 100%;
+		z-index: 100000;
+		margin: 0 auto;
+	}
+	.navigation .exit{
+		right:5px;
+		top:0px;
+	}
+}
+
+
+@media only screen and (max-device-width:768px){
+
+
+	.home-exclusive{
+		display: block;
+	}
+
+	.home-exclusive li {
+	  display: block;
+	  width: 100%;
+	  max-width: none;
+	  text-align: center;
+	}
+
+	.sticky-menu .subhead{
+		position: fixed;
+		width: 100%;
+		z-index: 800;
+		border: none;
+		padding:10px;
+		border-bottom: 1px #ccc solid;
+		box-sizing: border-box
+	}
+
+	.subhead .drop-click{
+		display: none;
+		position: absolute;
+		right:10px;
+		top:4px;
+		z-index: 12;
+		padding:10px;
+	}
+
+	.overflow-active:after {
+    font-family: "Material Icons";
+    content: "\E913";
+    font-size: 100px;
+    position: absolute;
+    color: #000;
+    text-align: center;
+    display: block;
+    width: 100%;
+    top: calc(50% + -50px);
+    z-index: 15;
+    opacity: 0.4;
+    transform: rotate(-10deg);
+    animation-name: scroller;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    text-shadow: 0 0 25px #fff;
+	}
+
+	.slide-down .mobile-footer,
+	.slide-up .mobile-footer{
+		display: block;
+		bottom: 0px;
+		height: 50px;
+		position: fixed;
+		left:0;
+		right:0;
+		z-index: 450;
+		width:100%;
+		margin:0 auto;
+	}
+
+}
+
+.mobile-only{
+	display: none;
+}
+
+@media only screen and (min-width:769px){
+	.toggle.mobile-only ~ .toggle-target{
+		display: block
+	}
+	.mobile-mover{
+		display: none !important
+	}
+}
+
+footer .grid-2 p a{
+  color: #36383d;
+  font-size: 14px;
+  display: block;
+  line-height: 1.4em;
+}
+
+
+@media only screen and (max-width:320px){
+	.authorv2-links{
+		display: none
+	}
+}
+@media only screen and (max-width:768px){
+	#navigationv3-controller{
+    display: none;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 50px;
+    background: #fff;
+    bottom: 0px;
+	}
+
+	.mobile{
+		visibility: visible;
+		position: relative;
+	}
+
+	.promo-placeholder{
+		font-size:16px;
+	}
+
+
+	.navActive #navigationv3-controller{
+		display: block;
+	}
+
+	.navActive .navigationv3 > li > a{
+		color: #333;
+		display: block;
+	}
+
+	.navActive .navigationv3 > li.active > a{
+		padding-bottom: 20px;
+		display: inline-block;
+		box-shadow: 0 -5px 0 #224a56 inset;
+		margin-left:35px
+	}
+
+	.navActive .navigationv3{
+    justify-content: flex-start;
+    flex-flow: column;
+	}
+
+	.navActive .navigationv3 > li{
+		padding:20px;
+		border-bottom: 1px #eee solid;
+		display: block
+	}
+
+	.navigationv3.active > li{
+		display: none
+	}
+
+	.navigationv3.active > li.active{
+		display: block
+	}
+
+	.navActive .mobile-menu .material-icons{
+		font-size: 0;
+	}
+	.navActive .mobile-menu .material-icons:after{
+		content: "close";
+		font-size: 24px;
+		font-family: "Material Icons";
+	}
+
+	.navigationv3.active > li.active > a:before{
+    display: inline-block;
+    font-size: 30px;
+    content: "keyboard_backspace";
+    font-family: "Material Icons";
+    text-decoration: none;
+    color: #224a56;
+    vertical-align: middle;
+    padding-right: 19px;
+    top: 69px;
+    left:15px;
+    position: fixed;
+	}
+
+
+	.navigationv3 > li{
+		position: relative
+	}
+
+	.navActive .navigationv3 > li.active .navigationv3-sub{
+		border-top: 1px #eee solid;
+
+		display: block !important;
+		position: relative;
+		top:auto;
+		box-shadow: none;
+		padding:20px 0px
+	}
+
+	.navigationv3-sub a{
+		margin:12px 0;
+	}
+
+	.navigationv3-sub > li{
+		display: block;
+		padding:0
+	}
+
+	.compare-table-brokers tr td:first-child{
+		display: none !important
+	}
+	.authorv2-image{
+		display:inline-block;
+		width:40px;
+		height:40px;
+		margin-right:3px;
+		border-radius: 100%
+	}
+	.authorv2-details{
+		display: block;
+	}
+
+	.mobile-only{
+		display: block;
+	}
+
+	.primary-disclosure{
+		font-size: 12px
+	}
+
+	.mobile-footer .exit-ad{
+    display: none;
+    position: absolute;
+    background: rgba(255,255,255,.8);
+    text-align: center;
+    border-radius: 100%;
+    width: 25px;
+    height: 25px;
+    right: 0px;
+    top: -14px;
+    font-size: 20px;
+	}
+
+	footer p a{
+		margin:10px 0;
+	}
+
+	footer .navigation li a{
+		padding:3px;
+		display: block;
+	}
+
+	.brokerReview.sticky .stickymenu-white{
+		display: none !important
+	}
+
+	.sticky-menu.scroll-action .stickymenu-white ~ .cta{
+    display: block;
+    position: fixed;
+    bottom: 0;
+    z-index: 1000;
+    left: 0;
+    right: 0;
+    transition: 60ms all ease-in-out;
+    transform: translate3d(0,0,0);
+    padding: 15px;
+    max-width: none;
+    border-radius: 0!important;
+		padding:10px;
+    background: #224a56
+	}
+	.sticky-menu.scroll-action .stickymenu-white ~ .cta a{
+		margin-left:5px
+	}
+	.sticky-menu.scroll-action .stickymenu-white ~ .cta strong{
+		font-size: 16px !important;
+	}
+
+	.best-in-class .card ul{
+		max-height: none !important
+	}
+	article p img, .articleBody p img{
+		max-width: 100% !important
+	}
+	.about #body .pad-50{
+		display: block;
+	}
+
+	.about #body .pad-50 p{
+		margin-top:0px;
+	}
+
+	.about #body .pad-50 > img{
+		width: 300px;
+		height: 300px;
+		margin:0 0 20px;
+	}
+	.media-blocks > div{
+		width: calc(50% - 60px) !important;
+	}
+
+	.summary .offer{
+		display: none;
+	}
+
+	.sticky-menu .summary .offer{
+		display: block;
+		position: fixed;
+		bottom: 0;
+		z-index: 1000;
+		left:0;
+		right:0;
+		transition: 60ms all ease-in-out;
+		transform: translate3d(0,0,0);
+		padding:15px;
+		max-width: none;
+		border-radius:0 !important
+	}
+}
+
+@media only screen and (max-width:568px){
+	.press{
+		margin:0px !important
+	}
+
+
+	.native-ad-div h3{
+		font-size: 20px !important;
+	}
+
+	.native-ad-div, .native-ad-div a{
+		font-size: 16px
+	}
+
+	.native-ad-div img{
+		margin-top:15px
+	}
+
+	.grid-gap-10{
+		grid-gap: 15px !important;
+	}
+	.grid-columns-2{
+		grid-template-columns: 1fr 1fr !important;
+	}
+	.flex-bottom-10 > div{
+		padding-bottom: 20px
+	}
+	.flex-into-block{
+		display: block !important
+	}
+	.compare-table-brokers .td-offer,
+	.compare-table-brokers td{
+		width: 180px !important
+	}
+	.breadcrumb{
+		display: none !important
+	}
+
+	.cta .sticky-exit{
+		top:-38px !important;
+		border-radius: 100%;
+		right:0px;
+	}
+
+	.gallery-block{
+		display: flex;
+	  margin-left: 35px;
+	  padding: 10px 0;
+	  white-space: normal !important;
+	  max-width: auto !important;
+	  overflow: visible !important
+	}
+	.gallery-thumbnails a:nth-child(1n + 7){
+		display:none
+	}
+
+	.gallery-block{
+		display: block;
+	}
+	.gallery-block > div{
+		max-width: none !important
+	}
+	.gallery-thumbnails a{
+		width: 80px;
+		height: 80px;
+	}
+
+	.beyond-200 header{
+		display: none
+	}
+	.offer-v2 .rating:after{
+		content: "Overall";
+		display: block;
+		font-size: 14px;
+		text-align: center;
+		margin-top:7px;
+		margin-left:170px;
+	}
+
+	.master-table .table.ad{
+		display: none
+	}
+
+	.listings-v2 .offer-v2 .heading, .listings-v2 .offer-v2 .heading img{
+		display: block
+	}
+	.listings-v2 .offer-v2 .offer b{
+		display: block
+	}
+	#body blockquote p:before{
+		left:0px
+	}
+	.opener article, .opener .page{
+		padding:20px !important
+	}
+	.review-hero .inner .overall{
+		padding:20px;
+		box-sizing: border-box
+	}
+
+	.page-brokerv1 .review-hero .inner{
+		display: block;
+		padding:20px;
+	}
+
+	.page-brokerv1 .review-hero .inner div{
+		display: block;
+		width: auto;
+		padding:0;
+	}
+
+	#body blockquote p{
+		padding-left:20px;
+		padding-right:20px;
+	}
+	.double-button{
+		display: block;
+	}
+	.double-button > a{
+		display: block;
+		margin:10px 0;
+	}
+	.primary-disclosure span{
+		display: inline-block
+	}
+	.native-ad-div{
+		display: block
+	}
+	.native-ad-div-img{
+		justify-content: flex-start
+	}
+	.table-size-full > table,
+	.table-size-column{
+		width: 100%;
+		display: block;
+	}
+
+	.inline-ad-right{
+		display: block;
+		float: none;
+	}
+
+	.mobile-no-float{
+		float:none !important
+	}
+
+	.mobile-max-width150{
+		max-width: 150px !important;
+		padding-bottom: 20px;
+	}
+	.no-mobile{
+		display: none !important
+	}
+
+	.cta{
+		display: none
+	}
+
+	.guides-parent{
+		display: block;
+	}
+	.guide-list{
+		width: auto;
+	}
+
+	.broker-list .heading b{
+		padding-left:0;
+		left:5px;
+		font-size: 30px;
+	}
+
+	.flex-flip{
+		flex-direction: column-reverse;
+		display: flex !important;
+	}
+
+	.flex-flip > div{
+		display: flex;
+		flex-direction: column
+	}
+
+	.broker-list-3 > div{
+	}
+
+	.option-e .continue-reading{
+		display: none !important
+	}
+
+	.option-e .flex-order{
+		display: block;
+	}
+
+	.media-blocks {
+		display: block
+	}
+	.media-blocks > div{
+		width: 100% !important;
+		box-sizing: border-box;
+	}
+	.medianav{
+		display: block;
+	}
+	.medianav, .medianav a{
+		margin:10px 0 !important;
+		font-size: 13px;
+	}
+
+	.publish .social{
+		display: none !important
+	}
+
+	.publish{
+		display: flex
+	}
+	.publish img{
+		height: auto
+	}
+
+	.h1heading h1{
+		padding:20px 0;
+		font-size:26px;
+	}
+
+	.brokerReview .flex-width-2{
+		display: none !important
+	}
+
+	.compare-sticky .brokerHeaderFloater .offer a.getstarted, .compare-sticky .brokerHeaderFloater .offer .getstarted{
+		display: none !important
+	}
+
+	.compare-sticky.slide-down .brokerHeaderFloater{
+		top:45px;
+	}
+
+	.compare-sticky.slide-up .brokerHeaderFloater{
+		top:45px
+	}
+
+	.brokerReview .screenshots .ss-scroller a:hover:before,
+	article a.picture:hover:before,
+	.articleBody a.picture:hover:before{
+		display: none !important;
+	}
+
+	.brokerReview .screenshots .ss-scroller a:hover:after, article a.picture:hover:after, .articleBody a.picture:hover:after{
+		display: none !important
+	}
+
+
+	td[data-over]:hover:after, div[data-over]:hover:after{
+		width: 70vw
+	}
+}
+
+
+[class*="material-icon-"]{
+	font-family: "Material Icons";
+}
+
+[class*="material-icon-"]:after{
+	font-family: "Material Icons";
+	display: block;
+}
+
+.material-icon-account_balance:after{
+	content: "\e84f";
+}
+.material-icon-attach_money:after{
+	content: "\e227";
+}
+.material-icon-build:after{
+	content: "\e869";
+}
+.material-icon-device_hub:after{
+	content: "\e335";
+}
+.material-icon-done:after{
+	content: "\e876";
+}
+.material-icon-language:after{
+	content: "\e894";
+}
+.material-icon-notes:after{
+	content: "\e26c";
+}
+.material-icon-school:after{
+	content: "\e80c";
+}
+.material-icon-smartphone:after{
+	content: "\e32c";
+}
+.material-icon-swap_horiz:after{
+	content: "\e8d4";
+}
+.material-icon-swap_horizontal_circle:after{
+	content: "\e933";
+}
+.material-icon-timeline:after{
+	content: "\e922";
+}
+.material-icon-whatshot:after{
+	content: "\e80e";
+}
+.material-icon-swap_vertical_circle:after{
+	content: "\e8d6";
+}
+.material-icon-assessment:after{
+	content: "\e85c";
+}
+.material-icon-place:after{
+	content: "\e55f";
+}
+.material-icon-outlined_flag:after{
+	content: "\e153";
+}
+

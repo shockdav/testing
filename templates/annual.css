@@ -1,0 +1,481 @@
+.subhead{
+	background: #224a56;
+	border: none;
+}
+
+.subhead li a{
+	color: #fff
+}
+
+.subhead li a:hover{
+	color: #fff;
+	opacity: .7
+}
+
+.subhead li a img{
+	vertical-align: middle;
+	margin-right:10px;
+}
+
+.subnav{
+	max-width: 1280px
+}
+
+.opener{
+	background: #cbe0e0;
+	padding:50px 0;
+}
+
+.opener .page{
+	background: #fff;
+	border-radius: 4px;
+	padding:70px;
+	box-sizing: border-box;
+	box-shadow: 0 0 10px rgba(0,0,0,.1);
+	-webkit-font-smoothing: antialiased;
+	max-width: 980px;
+}
+
+.page p,
+.annual-broker-reviews p{
+	font-size: 19px;
+	color: #36383d;
+	display: block;
+	margin:25px 0;
+	line-height: 1.5em;
+}
+
+.annual-broker-reviews h2{
+	max-width:780px;
+	margin:0 auto !important
+}
+.annual-broker-reviews p{
+	max-width:780px;
+	margin:0 auto;
+	padding:10px 0;
+	color: #fff
+}
+
+
+.page p a{
+	color: #2f900e;
+}
+
+.page .author{
+	font-size: 16px;
+}
+.page .author b{
+	font-size: 22px;
+	color: #36383d
+}
+.page .author span{
+	display: block;
+}
+
+.page .author img{
+	width: 80px;
+	display: inline-block;
+	vertical-align: middle
+}
+
+.page .author img + div{
+	display: inline-block;
+	vertical-align: top;
+	margin-left:20px;
+}
+
+.annual-best-in-class{
+	display: flex;
+	background: #657073;
+	color: #fff;
+	-webkit-font-smoothing: antialiased;
+}
+.annual-best-in-class > div{
+	width: 100%;
+	padding:100px 0;
+}
+.annual-best-in-class > div:first-child{
+	background:url(/templates/annual/large-class.png) 220px -20px no-repeat;
+	background-size:110%;
+	background-attachment: scroll;
+	text-align: center;
+	margin:0 auto;
+
+}
+.annual-best-in-class > div:last-child{
+	background: url(https://cdn.stockbrokers.com/resources/background1.png) center center;
+}
+.annual-best-in-class .class-container{
+	display: flex;
+	justify-content:space-between;
+	flex-direction: row
+
+}
+.annual-best-in-class h2,
+.annual-broker-reviews h2,
+.annual-industry-awards h2,
+.annual-rankings h2{
+	color: #fff;
+   font-size: 40px;
+   font-weight: 200 !important;
+   margin-bottom: 20px;
+}
+.annual-best-in-class ul{
+	flex: 1;
+}
+.annual-best-in-class ul li{
+	display: flex;
+	margin:25px 0;
+	align-items: center
+}
+.annual-best-in-class ul li div,
+.annual-best-in-class ul li i{
+	vertical-align: middle;
+	margin-right:15px;
+}
+.annual-best-in-class ul li b,
+.annual-best-in-class ul li b a,
+.annual-best-in-class ul li b a:hover{
+	color: #44c716;
+	font-size: 22px;
+	display: block;
+}
+
+.annual-best-in-class ul li b a{
+	text-decoration: underline
+}
+
+.annual-best-in-class ul li b a:hover{
+	opacity: .8
+}
+
+.onlinebrokerreviews .cards a:hover{
+	text-decoration: underline
+}
+
+.annual-best-in-class ul li strong{
+	font-weight: normal;
+	direction: block;
+	font-size: 16px;
+}
+
+.annual-rankings{
+	text-align: left;
+	padding:60px 0;
+	background: #f4f4f4
+}
+
+.annual-rankings h2{
+	color: #36383d;
+}
+
+.annual-rankings h3{
+    font-size: 22px;
+    font-weight: bold;
+    color: #36383d;
+}
+
+.annual-rankings ul{
+	display: inline-block;
+	margin:20px 30px;
+	color: #36383d;
+	text-align: left;
+	vertical-align: top;
+}
+.annual-rankings li{
+	list-style: circle
+}
+
+.home section p{
+	-webkit-font-smoothing: antialiased;
+}
+
+section[data-name='scoring'] p{
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+    color: #36383d;
+    margin-bottom: 20px;
+}
+
+.annual-broker-reviews{
+	padding:60px 0;
+	color: #fff;
+	text-align: left;
+	-webkit-font-smoothing: antialiased;
+
+	background: #3a961a; /* Old browsers */
+	background: -moz-linear-gradient(-45deg, #3a961a 0%, #3a961a 50%, #2f900e 50%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg, #3a961a 0%,#3a961a 50%,#2f900e 50%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg, #3a961a 0%,#3a961a 50%,#2f900e 50%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3a961a', endColorstr='#2f900e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+.annual-rankings .compare-table thead tr th{
+	cursor: pointer
+}
+.annual-rankings .compare-table thead tr th,
+.annual-rankings .compare-table tbody tr td{
+	vertical-align: middle
+}
+.annual-rankings .compare-table thead tr th:first-child{
+	font-size: 22px;
+}
+.annual-rankings .compare-table tbody tr td:first-child{
+	font-weight: bold;
+	padding-left:9px
+}
+.annual-rankings .compare-table tbody tr td{
+	background: #f8f8f8
+}
+.annual-rankings .compare-table tbody tr td:last-child{
+	background: #fff
+}
+
+.compare-table{
+	margin: 0 auto;
+	max-width: none;
+}
+
+.smaller.rating{
+	width: 65px;
+	height: 12px;
+}
+
+.compare-table tr td:first-child{
+	width: 16%
+}
+
+.cards{
+	margin:40px 0;
+}
+
+.annual-industry-awards{
+	display: flex;
+	background: #224a56;
+	color: #fff;
+	-webkit-font-smoothing: antialiased;
+	flex-wrap: wrap;
+}
+.annual-industry-awards > div{
+	padding:100px 0;
+	flex:1;
+}
+.annual-industry-awards > div:last-child{
+	background:url(/templates/annual/large-awards.png) 250px center no-repeat;
+	background-size:contain;
+	background-attachment: scroll;
+	text-align: center;
+	margin:0 auto;
+}
+.award-cards {
+	margin:20px;
+	display: flex;
+	justify-content: space-between
+}
+.award-cards > div{
+	display: inline-block
+}
+.award-cards > div > div{
+	display: block;
+	border-bottom: 1px solid #4e6e78;
+	width: 250px;
+	height: 120px;
+	padding-top:20px;
+	margin:10px;
+}
+
+.award-cards span{
+	display: block;
+}
+
+.award-cards b{
+	display: block;
+	font-size: 22px;
+	line-height: 1.6em
+}
+
+.award-cards strong{
+	font-weight: normal;
+	font-size: 16px;
+	color: #cbe0e0
+}
+
+.multiarrow{
+	display: block;
+	background: url(https://template.stockbrokers.com/annual/multiarrow.png);
+	width: 25px;
+	height: 7px;
+	margin:0 auto;
+	margin-top:3px;
+	background-position: 0 0px
+}
+
+.arrow-direction-0 .multiarrow{
+	background-position: 0 27px;
+}
+
+.arrow-direction-1 .multiarrow{
+	background-position: 0 7px;
+}
+
+.icon-rankings{
+	background-position: -37px -45px;
+}
+.icon-com-fee, .icon-cost{
+	background-position: 0 3px;
+}
+.icon-investment-offering{
+	background-position: 0 -261px;
+}
+.icon-platform-tools{
+	background-position: 0 -49px;
+}
+.icon-research{
+	background-position: 0 -314px;
+}
+.icon-customer-service{
+	background-position: 0 -103px;
+}
+.icon-mobile-trading{
+	background-position: 0 -368px;
+}
+.icon-ease{
+	background-position: 0 -155px
+}
+.icon-education{
+	background-position: 0 -420px
+}
+.icon-order-execution,
+.icon-active-trading,
+.icon-investment-approach{
+	background-position: 0 -209px;
+}
+.icon-banking{
+	background-position: 0 -474px;
+}
+
+.overflow{
+    overflow: hidden;
+    overflow-x: auto;
+}
+
+.icon-new-investors,
+.icon-ease-of-use{
+	background-position: -35px -210px
+}
+
+.icon-options-trading{
+	background-position: -35px -155px
+}
+
+.hero .social{
+    text-align: center;
+    color: #fff;
+    margin: 0 auto;
+    display: block;
+    justify-content: center;
+    max-width: none;
+    width: 100%
+}
+
+.hero p{
+	display: block;
+}
+
+.hero .social a{
+    color: #fff;
+    border: 1px #fff solid;
+    border-radius: 100%;
+    width: 2em;
+    height: 2em;
+    display: inline-flex;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.articleBody p a{
+	text-decoration: underline
+}
+
+.list a{
+	text-decoration: underline;
+}
+
+
+@media only screen and (max-width:768px){
+	.annual-best-in-class, .award-cards,
+	.annual-best-in-class .class-container{
+		display: block
+	}
+
+	.award-cards > div > div{
+		height: auto;
+		padding-bottom: 15px;
+	}
+
+	img[style*="float: right"]{
+		display: block;
+		float: none !important;
+		margin:10px auto;
+		padding:0 !important
+	}
+
+	div[style*="padding-top: 100px"]{
+		padding-top: 0 !important
+	}
+
+	.annual-industry-awards{
+		flex-flow: column-reverse
+	}
+
+
+}
+
+@media only screen and (max-width:568px){
+	.page .author img + div{
+		margin-left:0;
+		margin-top:20px;
+	}
+	.annual-industry-awards > div{
+		padding:20px 0;
+	}
+	.annual-rankings ul{
+		margin:0 40px;
+	}
+	.annual-rankings p{
+		margin-bottom: 10px;
+	}
+	.annual-broker-reviews{
+		padding:20px 0;
+	}
+	.annual-rankings ul:last-child{
+		margin-bottom:20px
+	}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
